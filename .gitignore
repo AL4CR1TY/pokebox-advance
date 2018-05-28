@@ -1,6 +1,4 @@
 # Pokebox Advance - pokeboxadvance - gitignore
-# howto: https://git-scm.com/docs/gitignore (2018-03-12 13:47)
-# 	 (https://docs.microsoft.com/en-us/vsts/git/tutorial/ignore-files?tabs=visual-studio) (2018-03-12 13:47)
 
 
 # ignore Mac folder file
@@ -12,7 +10,6 @@
 
 # ignore all .html files (javadoc) except website
 *.html
-!Project_Management/sphererun.ch/*.html
 
 # ignore .git dir
 .git/
